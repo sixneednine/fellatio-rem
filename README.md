@@ -1,2 +1,2 @@
 # fellatio-rem
-REM構文Strapiテンプレート
+REM構文Strapiテンプレート - NiNe Full Edition

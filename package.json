@@ -1,4 +1,12 @@
 {
   "name": "fellatio-rem",
-  "private": true
+  "private": true,
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build"
+  },
+  "dependencies": {
+    "@strapi/strapi": "^4.19.2"
+  }
 }
